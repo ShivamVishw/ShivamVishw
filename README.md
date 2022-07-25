@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **@ShivamVishwakarma**
 - 👀 I’m vey passionate and interested in exploring **coding** stuffs journey......
-- 🌱 I’m currently learning **Bigdata Hadoop and Hibernate**
+- 🌱 I’m currently learning*Spring Boot with REST services*
 - My next jump will be **.Net Framework and next AWS**
 - 💞️ I’m looking to contribute in open source and other big projects
 - Till now I have done with **Java with Dsa, Python, MySql, JDBC, Html and css**
