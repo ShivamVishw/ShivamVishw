@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **@ShivamVishwakarma**
 - 👀 I’m very passionate and interested in exploring **coding** stuffs journey......
-- 🌱 currently exploring **Spring Boot with Microservices paralely with Cloud Computing**
+- 🌱 Currently exploring **Spring Boot with Microservices paralely with Cloud Computing**
 - My next jump will be **.Net Framework and next AWS**
 - 💞️ I’m looking to contribute in open source and other big projects
 - Till now I have done with **Java with Dsa, Python, MySql, MongoDB, JDBC, Html and css**
