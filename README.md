@@ -1,11 +1,24 @@
-- Hi, I’m **@ShivamVishwakarma**
-- I’m very passionate and interested in exploring **coding** stuffs journey......
-- Currently exploring **Spring Boot with Microservices paralely with Cloud Computing**
-- My next jump will be **.Net Framework and next AWS**
-- I’m looking to contribute in open source and to work in good organization
-- Till now I have done with **Java with Dsa, Python, MySql, MongoDB, JDBC, Html and css**
-- I have made 2 projects **Weather app, Smart contact manager,Bank Application, Department of Library Website**
-- 📫You can contact me through my email **shivamvishwakarma1432@gmail.com**
 
+<h1 align="center">Hi 👋, I'm Shivam Vishwakarma</h1> <br>
+<h3 align="center">A passionate Software developer from India.</h3><br>
+
+- 🌱 I’m currently learning **Project Deployment on cloud , Microservices**
+
+- 👨‍💻 All of my projects are available at GitHub repository [https://github.com/ShivamVishw?tab=repositories](https://github.com/ShivamVishw?tab=repositories)
+
+- 💬 Ask me about **Spring Boot, Java, DBMS, Backend development,**
+
+- 📫 How to reach me **shivamvishwakarma1432@gmail.com**
+- Linkedin - **https://www.linkedin.com/in/shivam-vishwakarma-b981b3206/**
+
+- HackerRank --**https://www.hackerrank.com/shivamvishwaka14**
+
+- Some of projects -- **Library Management System(LMS) , Student Management System , Weather App** 
+
+- **I**’m looking to contribute in open source project and to work in good organization
+
+- Languages Known : **Java , JavaScript , Python**
+
+- Tech Stack : **Html5 , CSS3 , MongoDB , MySQL , Bootstrap , SpringBoot , Postman** 
 <!---
 --->
