@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/shivam-vishwakarma-b981b3206/">Shivam Vishwakarma</a></h1> <br>
+<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/shivam-vishwakarma-b981b3206/">Shivam Vishwakarma</a></h1> 
+
 <h3 align="center">A passionate Software developer from India</h3><br>
 
 - 🌱 I’m currently learning **Project Deployment on cloud , Microservices**
