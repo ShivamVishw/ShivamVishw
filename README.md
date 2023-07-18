@@ -10,7 +10,7 @@
 - 💬 Ask me about **Spring Boot, Java, DBMS, Backend development,**
 - 📫 How to reach me **shivamvishwakarma1432@gmail.com**
 - Linkedin - **https://www.linkedin.com/in/shivam-vishwakarma-b981b3206/**
-- HackerRank --**https://www.hackerrank.com/shivamvishwaka14**
+
 - Some of projects -- **Library Management System(LMS) , Student Management System , Weather App** 
 - **I**’m looking to contribute in open source project and to work in good organization
 - Languages Known : **Java , JavaScript , Python**
@@ -20,6 +20,6 @@
 --->
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamvishw&show_icons=true&locale=en&layout=compact" alt="shivamvishw" /></p>
  -->
-<p>&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamvishw&" alt="shivamvishw" /></p>
+<p>&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamvishw&" alt="shivamvishw" />&nbsp<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamvishw&show_icons=true&locale=en&layout=compact" alt="shivamvishw" /></p> 
 
 
