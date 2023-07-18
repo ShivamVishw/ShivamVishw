@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at GitHub repository [https://github.com/ShivamVishw?tab=repositories](https://github.com/ShivamVishw?tab=repositories)
 
-- 💬 Ask me about **Spring Boot, Java, DBMS, Backend development,**
+- 💬 Ask me about **Spring Boot, Java, DBMS, Backend development**
 - 📫 How to reach me **shivamvishwakarma1432@gmail.com**
 - Linkedin - **https://www.linkedin.com/in/shivam-vishwakarma-b981b3206/**
 
