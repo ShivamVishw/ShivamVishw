@@ -14,7 +14,7 @@
 
 
 
-**Languages Known :** 
+<strong> **Languages Known :** </strong>
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Java&logo=java&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Javascript&logo=javascript&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -23,7 +23,7 @@
   <br>
 
   
-**Databases :** 
+<strong> **Databases :** </strong>
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Mysql&logo=mysql&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Mongodb&logo=mongodb&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -33,7 +33,7 @@
  
 
 
-**Tech Stack :** 
+<strong> **Tech Stack :** </strong> 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Html5&logo=html5&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Css3&logo=css3&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
