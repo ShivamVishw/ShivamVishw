@@ -12,7 +12,7 @@
 - Linkedin - **https://www.linkedin.com/in/shivam-vishwakarma-b981b3206/**
 
 - Some of projects -- **Library Management System(LMS) , Student Management System , Weather App** 
-- **I**’m looking to contribute in open source project and to work in good organization
+- **I**’m looking to contribute in open source project and to work in productive environment
 - Languages Known : **Java , JavaScript , Python**
 - Tech Stack : **Html5 , CSS3 , MongoDB , MySQL , Bootstrap , SpringBoot , Postman** 
 - Love to solve **DSA** problems
