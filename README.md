@@ -22,6 +22,7 @@
 **Languages Known :** 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Java&logo=java&label=&color=E8CA30&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Typescript&logo=typescript&label=&color=E8CA30&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Javascript&logo=javascript&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  /></div>
 
