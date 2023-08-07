@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Software developer from India</h3><br>
 
 - 🌱 Never Stop Learning
-- 🌱 I’m currently learning **Angular, Microservices**
+- 🌱 Currently learning **Angular, Microservices**
 
 - 👨‍💻 All of my **projects** are available at **GitHub** repository [https://github.com/ShivamVishw?tab=repositories](https://github.com/ShivamVishw?tab=repositories)
 
