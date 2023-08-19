@@ -44,7 +44,10 @@
   <img src="https://img.shields.io/static/v1?message=Html5&logo=html5&label=&color=0B4FD7&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Css3&logo=css3&label=&color=EF10E1&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
  <img src="https://img.shields.io/static/v1?message=Bootstrap&logo=bootstrap&label=&color=EFD008&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Spring&logo=spring&label=&color=D7EF10&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Spring&logo=spring&label=&color=C7EF10&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+
+<img src="https://img.shields.io/static/v1?message=Angular&logo=angular&label=&color=a6120d&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  
  <img src="https://img.shields.io/static/v1?message=Springboot&logo=springboot&label=&color=EF8A10&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
  <img src="https://img.shields.io/static/v1?message=Postman&logo=postman&label=&color=EF8A10&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
  <img src="https://img.shields.io/static/v1?message=Thymeleaf&logo=thymeleaf&label=&color=EF10D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></div>
