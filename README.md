@@ -47,6 +47,7 @@
   <img src="https://img.shields.io/static/v1?message=Spring&logo=spring&label=&color=C7EF10&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
 
 <img src="https://img.shields.io/static/v1?message=Angular&logo=angular&label=&color=a6120d&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+<img src="https://img.shields.io/static/v1?message=Material UI&logo=mui&label=&color=651fff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   
  <img src="https://img.shields.io/static/v1?message=Springboot&logo=springboot&label=&color=EF8A10&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
  <img src="https://img.shields.io/static/v1?message=Postman&logo=postman&label=&color=EF8A10&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
