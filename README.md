@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Software developer from India</h3><br>
 
 - 🌱 Never Stop Learning
-- 🌱 Currently learning **Angular, Microservices**
+- 🌱 Currently providing training in **Java** technology like **Spring Boot & Hibernate**, **Angular** and **Full Stack Developer** also providing services like **Web Development**, **Android development** etc
 
 - 👨‍💻 All of my **projects** are available at **GitHub** repository [https://github.com/ShivamVishw?tab=repositories](https://github.com/ShivamVishw?tab=repositories)
 
