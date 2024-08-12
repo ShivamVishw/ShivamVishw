@@ -30,7 +30,7 @@
   <br>
   <li style="margin-bottom: 10px;">
     <span style="font-weight: bold; color: #9400D3; font-size: 24px; font-family: 'Arial Black', Gadget, sans-serif;"><strong>🧠 Problem-Solving:</strong></span>
-    <span style="font-size: 20px; color: #555;">Passionate about solving <strong><I>Data Structures and Algorithms (DSA)</I></strong> challenges. Check out my DSA A2Z Striver Sheet repository <a href="https://github.com/your-repo-link" style="color: #9400D3; font-weight: bold;"><strong>DSA SOlUTION</strong></a>.</span>
+    <span style="font-size: 20px; color: #555;">Passionate about solving <strong><I>Data Structures and Algorithms (DSA)</I></strong> challenges. Check out my DSA A2Z Striver Sheet repository <a href="[https://github.com/your-repo-link](https://github.com/ShivamVishw/DSA-a2z-striver-solution)" style="color: #9400D3; font-weight: bold;"><strong>DSA SOlUTION</strong></a>.</span>
   </li>
   <br>
   <li style="margin-bottom: 10px;">
