@@ -7,34 +7,36 @@
 </p>
 
 <br>
-
-<ul style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 20px; line-height: 1.8; color: #333;">
+<ul style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.8; color: #333;">
   <li style="margin-bottom: 10px;">
-    <span style="font-weight: bold; color: #4CAF50; font-size: 22px;">🌱 Continuous Learner:</span>
+    <span style="font-weight: bold; color: #4CAF50; font-size: 24px; font-family: 'Arial Black', Gadget, sans-serif;"><strong>🌱 Continuous Learner:</strong></span>
     <span style="font-size: 20px; color: #555;">I believe in the philosophy of lifelong learning and constantly strive to expand my knowledge.</span>
   </li>
+  <br>
   <li style="margin-bottom: 10px;">
-    <span style="font-weight: bold; color: #4CAF50; font-size: 22px;">🌱 Current Focus:</span>
-    <span style="font-size: 20px; color: #555;">Providing training in <strong>Java</strong> technologies such as <strong>Spring Boot</strong>, <strong>Hibernate</strong>, and <strong>Angular</strong>. Additionally, offering services in <strong>Full Stack Development</strong>, <strong>Web Development</strong>, and <strong>Android Development</strong>.</span>
+    <span style="font-weight: bold; color: #4CAF50; font-size: 24px; font-family: 'Arial Black', Gadget, sans-serif;"><strong>🌱 Current Focus:</strong></span>
+    <span style="font-size: 20px; color: #555;">Providing training in <strong><I>Java</I></strong> technologies such as <strong><I>Spring Boot</I></strong>, <strong><I>Hibernate</I></strong>, and <strong><I>Angular</I></strong>. Additionally, offering services in <strong><I>Full Stack Development</I></strong>, <strong><I>Web Development</I></strong>, and <strong><I>Android Development</I></strong>.</span>
   </li>
+  <br>
   <li style="margin-bottom: 10px;">
-    <span style="font-weight: bold; color: #FF6347; font-size: 22px;">💼 Experience:</span>
+    <span style="font-weight: bold; color: #FF6347; font-size: 24px; font-family: 'Arial Black', Gadget, sans-serif;"><strong>💼 Experience:</strong></span>
     <span style="font-size: 20px; color: #555;">10 months of hands-on experience in a dynamic startup environment, coupled with 2.5 years of experience in freelancing projects, delivering diverse software solutions.</span>
   </li>
+  <br>
   <li style="margin-bottom: 10px;">
-    <span style="font-weight: bold; color: #4682B4; font-size: 22px;">👨‍💻 Projects:</span>
-    <span style="font-size: 20px; color: #555;">Explore all my projects on my <a href="https://github.com/ShivamVishw?tab=repositories" style="color: #FF4500;">GitHub Repository</a>.</span>
+    <span style="font-weight: bold; color: #4682B4; font-size: 24px; font-family: 'Arial Black', Gadget, sans-serif;"><strong>👨‍💻 Projects:</strong></span>
+    <span style="font-size: 20px; color: #555;">Explore all my projects on my <a href="https://github.com/ShivamVishw?tab=repositories" style="color: #FF4500; font-weight: bold;"><strong>GitHub Repo</strong></a>.</span>
   </li>
+  <br>
   <li style="margin-bottom: 10px;">
-    <span style="font-weight: bold; color: #9400D3; font-size: 22px;">🧠 Problem-Solving:</span>
-    <span style="font-size: 20px; color: #555;">Passionate about solving <strong>Data Structures and Algorithms (DSA)</strong> challenges. Check out my DSA A2Z Striver Sheet repository <a href="https://github.com/your-repo-link" style="color: #9400D3;">here</a>.</span>
+    <span style="font-weight: bold; color: #9400D3; font-size: 24px; font-family: 'Arial Black', Gadget, sans-serif;"><strong>🧠 Problem-Solving:</strong></span>
+    <span style="font-size: 20px; color: #555;">Passionate about solving <strong><I>Data Structures and Algorithms (DSA)</I></strong> challenges. Check out my DSA A2Z Striver Sheet repository <a href="https://github.com/your-repo-link" style="color: #9400D3; font-weight: bold;"><strong>DSA SOlUTION</strong></a>.</span>
   </li>
+  <br>
   <li style="margin-bottom: 10px;">
-    <span style="font-weight: bold; color: #00CED1; font-size: 22px;">👨‍💻 HackerRank Profile:</span>
-    <span style="font-size: 20px; color: #555;">Check out my profile <a href="https://www.hackerrank.com/shivamvishwaka14" style="color: #4682B4;">here</a>.</span>
-  </li>
+    <span style="font-weight: bold; color: #9400D3; font-size: 24px; font-family: 'Arial Black', Gadget, sans-serif;"><strong>🧠 Finance:</strong></span>
+    <span style="font-size: 20px; color: #555;">Strong passion in <strong><I>Trading & Investing</I></strong>.  </li>
 </ul>
-
 
 <br>
 
