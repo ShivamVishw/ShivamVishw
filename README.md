@@ -21,7 +21,7 @@
   <br>
   <li style="margin-bottom: 10px;">
     <span style="font-weight: bold; color: #4CAF50; font-size: 24px; font-family: 'Arial Black', Gadget, sans-serif;"><strong>🌱 Current Focus:</strong></span>
-    <span style="font-size: 20px; color: #555;">Providing training in <strong><I>Java</I></strong> technologies such as <strong><I>Spring Boot</I></strong>, <strong><I>Hibernate</I></strong>, and <strong><I>Angular</I></strong>. Additionally, offering services in <strong><I>Full Stack Development</I></strong>, <strong><I>Web Development</I></strong>, and <strong><I>Android Development</I></strong>.</span>
+    <span style="font-size: 20px; color: #555;">Providing training in <strong><I>Java</I></strong> technologies such as <strong><I>Spring Boot</I></strong>, <strong><I>Hibernate</I></strong>, and <strong><I>Angular</I></strong>. Additionally, offering services in <strong><I>Full Stack Development</I></strong>, <strong><I>Web Development</I></strong>, and <strong><I>Android Development and other services.</I></strong>.</span>
   </li>
   <br>
   <li style="margin-bottom: 10px;">
