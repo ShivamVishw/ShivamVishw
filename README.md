@@ -26,7 +26,7 @@
   <br>
   <li style="margin-bottom: 10px;">
     <span style="font-weight: bold; color: #FF6347; font-size: 24px; font-family: 'Arial Black', Gadget, sans-serif;"><strong>💼 Experience:</strong></span>
-    <span style="font-size: 20px; color: #555;">10 months of hands-on experience in a dynamic startup environment, coupled with 2.5 years of experience in freelancing projects, delivering diverse software solutions.</span>
+    <span style="font-size: 20px; color: #555;">1.3 years of hands-on experience in a dynamic startup environment, coupled with 2.5 years of experience in freelancing projects, delivering diverse software solutions.</span>
   </li>
   <br>
   <li style="margin-bottom: 10px;">
