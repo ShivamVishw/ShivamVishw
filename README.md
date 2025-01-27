@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center" style="font-family: 'Verdana', sans-serif; color: #228B22; font-size: 28px;">
-  A Dedicated Software Developer from India 🇮🇳
+  A Dedicated Technical Trainer from India 🇮🇳
 </h3>
 <br>
 
